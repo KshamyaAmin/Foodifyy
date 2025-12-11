@@ -1,4 +1,5 @@
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)   
+
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
 
 # 🍴 Foodify — Delicious Food Landing Page  
 
@@ -35,3 +36,21 @@ A landing page that looks **fresh, vibrant, and appetizing** — perfect for foo
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/foodify-landing.git
+   ```  
+2. Open `index.html` in your browser  
+3. Customize dishes, reviews, and styles to make it your own 🎉  
+
+---
+
+## 🏢 OASIS INFOBYTE — Task List (Web Development & Designing)  
+This project is part of the **OASIS INFOBYTE Internship Program** under the *Web Development and Designing* domain.  
+
+### ✅ Tasks Completed  
+- 🌐 **Responsive Landing Page** — Foodify  
+- ⏱️ **Stopwatch Web App**  
+- 🎮 **Tic-Tac-Toe Game**  
+- ☁️ **Weather App**  
+- 🍳 **Smart Recipe Generator**  
+
+---
+
