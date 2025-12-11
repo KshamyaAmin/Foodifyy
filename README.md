@@ -14,5 +14,5 @@ It’s designed to showcase mouth-watering dishes, customer reviews, and a simpl
 - 🎨 CSS3 (Flexbox + Grid)
 - 🌈 Google Fonts (Poppins)
 - 🖼️ Unsplash images for food visuals
-📸 Preview
+📸 Preview...
 A landing page that looks fresh, vibrant, and appetizing — perfect for food delivery startups or practice projects.
